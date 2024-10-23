@@ -21,6 +21,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+<h2 style="text-align: left;">About Me</h2>
+
 I am a postdoctoral associate in the Department of Biostatistics at Yale University, supervised by Prof. [Heping Zhang](https://ysph.yale.edu/c2s2/profile/heping-zhang/). I completed my Ph.D. in Statistics at Purdue University in 2023, where I was supervised by Prof. [Chuanhai Liu](https://www.stat.purdue.edu/~chuanhai/). Before that, I received my Master degree in Statistics from Columbia University in 2019, supervised by Prof. [Tian Zheng](http://www.stat.columbia.edu/~tzheng/). I received my Bachelor degree in Economics from Fudan University in 2017.  
 
 My research focuses on developing valid and efficient methodologies for statistical analysis. I am particularly interested in designing tools that are grounded in fundamental statistical principles while also integrating advances from modern machine learning and artificial intelligence.
