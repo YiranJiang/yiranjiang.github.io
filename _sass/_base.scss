@@ -1304,26 +1304,3 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
-
-
-// customized information
-
-.profile-info {
-  text-align: center;
-}
-
-.profile-name {
-  font-size: 2rem; /* or adjust according to site defaults */
-  font-weight: bolder;
-  color: inherit; /* Use the site's default text color */
-}
-
-.profile-position {
-  font-size: 1.0rem;
-  color: var(--global-text-color-light); /* Use the site's default text color */
-}
-
-.profile-department {
-  font-size: 1.0rem;
-  color: var(--global-text-color); /* This ensures consistency with site styles */
-}
