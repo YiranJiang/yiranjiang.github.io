@@ -11,8 +11,8 @@ profile:
   more_info: 
   >
     <div class="profile-info" style="text-align: center;">
-      <p class="profile-name" style="font-family: 'Arial';">Yiran Jiang</p>
-      <p class="profile-position">Postdoctoral Associate</p>
+      <p class="profile-name" style="font-family: 'Arial'; display: block;">Yiran Jiang</p>
+      <p class="profile-position" style="display: block;" >Postdoctoral Associate</p>
       <p class="profile-department">Department of Biostatistics, Yale University</p>
     </div>
 
