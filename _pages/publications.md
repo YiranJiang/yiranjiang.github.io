@@ -41,7 +41,7 @@ nav_order: 2
 
 - Scalable Community Detection in Massive Networks Using Aggregated Relational Data\
   Timothy Jones, Owen G. Ward, **Yiran Jiang**, John Paisley and Tian Zheng\
-  _Statistica Sinica_, (2024), in press.   
+  _Statistica Sinica_ (2024), in press.   
   [[paper](https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2022-0411_na.pdf)]
 
 - Real-time onboard SVM-based human locomotion recognition for a bionic knee exoskeleton on different terrains\
