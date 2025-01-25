@@ -32,7 +32,7 @@ nav_order: 2
 
 - Finite Sample Valid Inference via Calibrated Bootstrap\
   **Yiran Jiang**, Chuanhai Liu and Heping Zhang\
-  _arXiv preprint_ (2023), under revision at _Journal of the Royal Statistical Society: Series B_/ \
+  _arXiv preprint_ (2023), under revision at _Journal of the Royal Statistical Society: Series B_\
   [[paper](https://arxiv.org/pdf/2408.16763)] [[code](https://github.com/YiranJiang/Calibrated-Bootstrap)]
 
 - The Typicality Principle and its Implications for Statistics and Data Science\
