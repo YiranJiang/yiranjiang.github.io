@@ -38,7 +38,8 @@ nav_order: 2
 
 - The Typicality Principle and its Implications for Statistics and Data Science\
   **Yiran Jiang**, Zeyu Zhang, Ryan Martin and Chuanhai Liu\
-  _preprint_ (2025), submitted.
+  _arXiv preprint_ (2025), submitted. \
+  [[arXiv](https://arxiv.org/abs/2501.14860)]
 
 - Scalable Community Detection in Massive Networks Using Aggregated Relational Data\
   Timothy Jones, Owen G. Ward, **Yiran Jiang**, John Paisley and Tian Zheng\
