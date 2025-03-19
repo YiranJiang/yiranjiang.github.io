@@ -28,7 +28,7 @@ nav_order: 2
 
 - Empowering Genome-wide Association Studies via a Visualizable Test Based on Regional Association Score\
   **Yiran Jiang** and Heping Zhang\
-  _Proceedings of the National Academy of Sciences_ (2025), published online. \
+  _Proceedings of the National Academy of Sciences_ (2025). \
    [[paper](https://www.pnas.org/doi/full/10.1073/pnas.2419721122)] [[code](https://github.com/hepingzhangyale/RAS)]
 
 - Finite Sample Valid Inference via Calibrated Bootstrap\
