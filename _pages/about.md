@@ -27,8 +27,8 @@ I am a postdoctoral associate in the Department of Biostatistics at Yale Univers
 
 My research focuses on developing valid and efficient methodologies for statistical analysis. I am particularly interested in designing tools that are grounded in fundamental statistical principles while also integrating advances from modern machine learning and artificial intelligence.
 
-<p style="color: blue;">
-I’m excited to join the Dr. Bing Zhang Department of Statistics at the University of Kentucky as an Assistant Professor in August 2025.
+<p style="text-decoration: underline;">
+I’m excited to join the [Dr. Bing Zhang Department of Statistics at the University of Kentucky](https://stat.as.uky.edu/faculty) as an Assistant Professor in August 2025!
 </p>
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
