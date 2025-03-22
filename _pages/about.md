@@ -27,9 +27,8 @@ I am a postdoctoral associate in the Department of Biostatistics at Yale Univers
 
 My research focuses on developing valid and efficient methodologies for statistical analysis. I am particularly interested in designing tools that are grounded in fundamental statistical principles while also integrating advances from modern machine learning and artificial intelligence.
 
-<p style="text-decoration: underline;">
-I’m excited to join the [Dr. Bing Zhang Department of Statistics at the University of Kentucky](https://stat.as.uky.edu/faculty) as an Assistant Professor in August 2025!
-</p>
+<p><u>I’m excited to join the <a href="https://stat.as.uky.edu/faculty">Dr. Bing Zhang Department of Statistics at the University of Kentucky</a> as an Assistant Professor in August 2025!</u></p>
+
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
