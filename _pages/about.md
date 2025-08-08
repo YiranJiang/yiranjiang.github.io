@@ -14,6 +14,7 @@ profile:
       <p class="profile-name" style="font-family: 'Arial'; display: block;">Yiran Jiang</p>
       <p class="profile-position" style="display: block;" >Assistant Professor</p>
       <p class="profile-department">Department of Statistics, University of Kentucky</p>
+      <p class="profile-department">yiran.jiang@uky.edu</p>
     </div>
 
 news: false # includes a list of news items
@@ -26,9 +27,11 @@ social: true # includes social icons at the bottom of the page
 I am an Assistant Professor of Statistics in the University of Kentucky. I was a postdoctoral associate in the Department of Biostatistics at Yale University, supervised by Prof. [Heping Zhang](https://ysph.yale.edu/c2s2/profile/heping-zhang/). I completed my Ph.D. in Statistics at Purdue University in 2023, where I was supervised by Prof. [Chuanhai Liu](https://www.stat.purdue.edu/~chuanhai/). Before that, I received my Master degree in Statistics from Columbia University in 2019, supervised by Prof. [Tian Zheng](http://www.stat.columbia.edu/~tzheng/). I received my Bachelor degree in Economics from Fudan University in 2017.  
 
 My research focuses on developing valid and efficient methodologies for statistical analysis. I am particularly interested in designing tools that are grounded in fundamental statistical principles while also integrating advances from modern machine learning and artificial intelligence. Specifically, my research interests include:
-- Statistical foundations of data science and machine learning
-- Reliable methods for predictive modeling and statistical inference
-- Statistical genetics and the application of statistical methods to biomedical data
+- **Statistical foundations** of data science and modern machine learning models
+- Reliable methods for **predictive modeling** and **uncertainty quantification**
+- **Statistical genetics** and the application of statistical methods to **biomedical data**
+
+I’m always excited to explore new ideas and work with passionate people. If you’re interested in my research or would like to collaborate, please feel free to reach out!
 
 <!-- <p><u>I’m excited to join the <a href="https://stat.as.uky.edu/faculty">Dr. Bing Zhang Department of Statistics at the University of Kentucky</a> as an Assistant Professor in August 2025!</u></p> -->
 

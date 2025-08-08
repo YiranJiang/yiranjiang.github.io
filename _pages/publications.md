@@ -50,3 +50,8 @@ nav_order: 2
   Zhihao Zhou, Xiuhua Liu, **Yiran Jiang**, Jingeng Mai, Qining Wang\
   _IEEE-RAS TC on Wearable Robotics_ (2019)\
   [[paper](https://ieeexplore.ieee.org/document/8719399)]
+
+
+### Others
+
+ I am currently leading several projects on uncertainty quantification (conformal prediction), synthetic data generation, and genome-wide association studies (GWAS).

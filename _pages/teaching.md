@@ -7,7 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-#### Department of Statistics, Purdue University
+#### Department of Statistics, University of Kentucky (Instructor)
+
+- STA 678: Statistical Computational Theory and Data Visualization (Fall 2025)
+
+#### Department of Statistics, Purdue University (Lab Instructor/ Teaching Assistant)
 
 - STAT 301: Elementary Statistical Methods (Fall 2019, 2020; Spring 2020, 2021, 2022; Summer 2020, 2021)
 - STAT 545/546: Computational Statistics (Fall 2022; Spring 2021, 2022)
@@ -16,11 +20,11 @@ nav_order: 6
 - STAT 511: Statistical Methods (Summer 2023)
 
 
-#### Department of Statistics, Columbia University
+#### Department of Statistics, Columbia University (Teaching Assistant)
 
 - GR 5243: Applied Data Science (Fall 2018)
 
-#### Foreign Language Association, Fudan University
+#### Foreign Language Association, Fudan University (Instructor)
 
 - Basic Japanese (Fall 2016; Spring 2015, 2016)
 
