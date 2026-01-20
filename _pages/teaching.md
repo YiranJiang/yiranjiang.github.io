@@ -9,6 +9,7 @@ nav_order: 6
 
 #### Department of Statistics, University of Kentucky (Instructor)
 
+- STA 630: Bayesian Inference (Sprint 2026)
 - STA 678: Statistical Computational Theory and Data Visualization (Fall 2025)
 
 #### Department of Statistics, Purdue University (Lab Instructor/ Teaching Assistant)
