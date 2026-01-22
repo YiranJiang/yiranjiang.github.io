@@ -22,7 +22,7 @@ nav_order: 2
 ### Publications
 
 - The Typicality Principle and its Implications for Statistics and Data Science\
-  **Yiran Jiang**, Zeyu Zhang, Ryan Martin and Chuanhai Liu <i class="fas fa-envelope"></i>\
+  **Yiran Jiang** <i class="fas fa-envelope"></i>, Zeyu Zhang, Ryan Martin and Chuanhai Liu \
   _Journal of Data Science_ (2026), to appear. \
   [[arXiv](https://arxiv.org/abs/2501.14860)]
 
@@ -37,7 +37,7 @@ nav_order: 2
  [[paper](https://www.tandfonline.com/doi/pdf/10.1080/01621459.2025.2455192)] [[arXiv](https://arxiv.org/abs/2206.01824)] [[code](https://github.com/YiranJiang/Estimation-of-Over-parameterized-Models-from-an-Auto-Modeling-Perspective)]
 
 - Empowering Genome-wide Association Studies via a Visualizable Test Based on Regional Association Score\
-  **Yiran Jiang** and Heping Zhang\
+  **Yiran Jiang** and Heping Zhang <i class="fas fa-envelope"></i>\
   _Proceedings of the National Academy of Sciences_ (2025). \
    [[paper](https://www.pnas.org/doi/full/10.1073/pnas.2419721122)] [[code](https://github.com/hepingzhangyale/RAS)]
 
@@ -56,11 +56,11 @@ nav_order: 2
 
 ### Preprints
 
-- Genetics of Human Longevity: Regional Association Signals and Cross-Cohort Replication
+- Genetics of Human Longevity: Regional Association Signals and Cross-Cohort Replication\
   **Yiran Jiang**, Yue Hu and Heping Zhang <i class="fas fa-envelope"></i>\
   submitted.
 
-- Forest-Based Approaches to Detecting Gene-Environment Interactions
+- Forest-Based Approaches to Detecting Gene-Environment Interactions\
   Yue Hu, **Yiran Jiang** and Heping Zhang <i class="fas fa-envelope"></i>\
   submitted.
 
