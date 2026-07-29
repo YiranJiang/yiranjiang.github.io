@@ -30,6 +30,10 @@ nav_order: 2
   Xiaowei Chen, **Yiran Jiang** <i class="fas fa-envelope"></i>\
   _Advanced Statistical Methods for Transportation Economics and Engineering_ (2026), to appear.
 
+- Forest-Based Approaches to Detecting Gene-Environment Interactions\
+  Yue Hu, **Yiran Jiang** and Heping Zhang <i class="fas fa-envelope"></i>\
+  _ASA Discoveries_ (2026), accepted.
+
 
 - Estimation of Over-parameterized Models from an Auto-Modeling Perspective\
   **Yiran Jiang** and Chuanhai Liu <i class="fas fa-envelope"></i>\
@@ -60,13 +64,9 @@ nav_order: 2
   **Yiran Jiang**, Yue Hu and Heping Zhang <i class="fas fa-envelope"></i>\
   submitted.
 
-- Forest-Based Approaches to Detecting Gene-Environment Interactions\
-  Yue Hu, **Yiran Jiang** and Heping Zhang <i class="fas fa-envelope"></i>\
-  submitted.
-
 - Finite Sample Valid Inference via Calibrated Bootstrap\
   **Yiran Jiang**, Chuanhai Liu <i class="fas fa-envelope"></i> and Heping Zhang\
-  _arXiv preprint_ (2023), under revision at _Journal of the Royal Statistical Society: Series B_\
+  _arXiv preprint_ (2023), major revision at _Journal of the Royal Statistical Society: Series B_\
   [[arXiv](https://arxiv.org/pdf/2408.16763)] [[code](https://github.com/YiranJiang/Calibrated-Bootstrap)]
 
 
