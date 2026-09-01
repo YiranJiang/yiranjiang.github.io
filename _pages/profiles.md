@@ -1,28 +1,28 @@
-<!-- ---
-layout: profiles
-permalink: /people/
-title: people
-description: members of the lab or group
+---
+layout: page
+permalink: /group/
+title: Group
+description:
 nav: true
-nav_order: 7
+nav_order: 3
+---
 
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
---- -->
+#### Ph.D. Students
+
+- **Kakon Datta**
+- **Kazi Sabbir Ahmad Nahin**
+
+<!-- #### Alumni -->
+
+<!--
+  To switch to al-folio's photo-card layout, change `layout: page` above to
+  `layout: profiles` and add a `profiles:` block to the front matter, e.g.
+
+  profiles:
+    - align: right
+      image: kakon_datta.jpg      # put the image in assets/img/
+      content: kakon_datta.md     # put the bio file in _pages/
+      image_circular: true
+      more_info: >
+        <p>Ph.D. Student</p>
+-->
